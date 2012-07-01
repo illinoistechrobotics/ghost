@@ -1,0 +1,5 @@
+<launch>
+    <node name="joy"        pkg="joy"       type="joy_node" />
+	<node name="ghost"      pkg="ghost"     type="ghost" />
+    <node name="arduino"    pkg="ghost"     type="arduino" />
+</launch>

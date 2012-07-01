@@ -1,0 +1,16 @@
+<package>
+  <description brief="ghost">
+
+     ghost
+
+  </description>
+  <author>Illinois Tech Robotics</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://illinoistechrobotics.org</url>
+  <depend package="std_msgs"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
