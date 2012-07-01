@@ -1,0 +1,46 @@
+#Please put all types of auto generated and log files in here 
+#so that our repository doesn't gets full of log files and auto generated files
+
+# Compiled source #
+###################
+*.com
+*.class
+*.o
+*.out
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Editor backup files #
+#######################
+*~
+
+# Build folders #
+#################
+bin/
+build/
+msg_gen/
+srv_gen/
+lib/
+CMakeFiles/
+src/ghost/
+
+
+# CMake #
+#########
+CMakeCache.txt
+CMakeLists.txt.user
+cmake_install.cmake
+ghost.cbp
+
+
